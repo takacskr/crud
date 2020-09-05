@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Berger Whitney",
+      "email": "berger.whitney@enaut.name"
+    },
+    {
+      "id": "2",
+      "name": "Laverne Dale",
+      "email": "laverne.dale@pyramis.io"
+    },
+    {
+      "id": "3",
+      "name": "John Doe",
+      "email": "234.dale@pyramis.io"
+    },
+    {
+      "id": "4",
+      "name": "Arnold Schwarzenegger",
+      "email": "arnold@body.com"
+    }
+  ]
+}
